@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gyan Ranjan Kumar
-- 👀 I’m interested in ...
+- 👀 I’m interested in Machine Learning and Deep Learning.
 - 🌱 I’m currently working on Research project collaborated with UNIVERSITAT POLITÈCNICA DE VALÈNCIA, SPAIN
 - 💞️ I’m looking to collaborate on NLP, Machine Learning & Deep Learning 
 - 📫 How to reach me gyankumar2431@gmail.com
